@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ふたごのたましい",
+  "base_artist": "文藝天国",
+  "createdAt": "2025-12-25T16:04:25.446325Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ふたごのたましい",
+      "artist": "文藝天国",
+      "has_synced": false,
+      "path": "select/pl_01_ふたごのたましい_文藝天国.txt"
+    }
+  ]
+}
